@@ -1,2 +1,2 @@
-# Russian-SportsSum
-Summarization of sports text broadcasts in Russian
+# Summarization of sports text broadcasts in Russian
+
